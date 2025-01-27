@@ -2,7 +2,7 @@
 A mod that adds a variety of on-rails asteroids to the Kerbolar system
 
 ## Description
-Asteroidz Plus aims to give players more places to visit within the Kerbolar system, without signiciantly altering the layout of the classic Kerbol system. The mod features a wide variety of unique asteroids. These asteroids are celestial bodies, meaning you cant move them around, but you can land on them and orbit in their SOI. This mod is designed to play well with future ISRU mods. Some asteroids have special features like rings and moons. Asteroids have different compositions (Icy, Rocky, Metallic and Carboniferous) and size classes.
+Asteroidz Plus aims to give players more places to visit within the Kerbolar system, without significantly altering the layout of the classic Kerbol system. The mod features a wide variety of unique asteroids. These asteroids are celestial bodies, meaning you cant move them around, but you can land on them and orbit in their SOI. This mod is designed to play well with future ISRU mods. Some asteroids have special features like rings and moons. Asteroids have different compositions (Icy, Rocky, Metallic and Carboniferous) and size classes.
 
 ## Features
 * 11 Unique Asteroids to explore
